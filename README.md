@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mike-loux-planview
 - 👀 I’m interested in gaming, music (listening and playing), food, wine, reading, and being a good husband and cat-daddy.
-- 🌱 I’m currently learning C# (ongoing for 15 years), PowerShell, Groovy, Bootstrap, jQuery.
+- 🌱 I’m currently learning C# (ongoing for 15 years), PowerShell, Groovy, Bootstrap, jQuery, Python.
 - 💞️ I’m looking to collaborate on Planview All The Things.
 - 📫 How to reach me - mloux@planview.com
 
